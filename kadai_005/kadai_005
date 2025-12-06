@@ -1,1 +1,8 @@
-
+git init
+     git remote add origin https://github.com/norinori1204/git_challenge.git
+     git pull origin main
+     git add -A
+     git commit -m"追加"
+     git add -A
+     git commit -m"追加2"
+     git log --oneline\n
